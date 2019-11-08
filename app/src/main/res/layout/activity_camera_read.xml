@@ -42,10 +42,10 @@
 
         <ImageView
             android:id="@+id/imageView_cr_1"
-            android:layout_width="375dp"
+            android:layout_width="383dp"
             android:layout_height="408dp"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.444"
+            app:layout_constraintHorizontal_bias="0.571"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView_cr_2"
             app:srcCompat="@color/colorAccent" />
@@ -82,9 +82,9 @@
 
         <ImageView
             android:id="@+id/imageView_cr_2"
-            android:layout_width="364dp"
-            android:layout_height="398dp"
-            android:layout_marginStart="20dp"
+            android:layout_width="383dp"
+            android:layout_height="397dp"
+            android:layout_marginStart="16dp"
             android:layout_marginTop="20dp"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView_4"
